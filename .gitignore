@@ -1,0 +1,18 @@
+# Compiled object files
+*.o
+
+# Compiled executables
+ls
+myls
+*.exe
+
+# Debug symbols and temporary files
+*.dSYM/
+*.core
+vgcore.*
+
+# Editor / IDE metadata
+.vscode/
+.idea/
+*.swp
+*~
